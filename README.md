@@ -15,9 +15,8 @@ HOMEPAGE
 
 LOGIN & SIGNUP
 
-![Screenshot 2023-06-26 122037](https://github.com/Kosaki761/Cinema-Website/assets/106327275/8e3d5b8a-409e-4974-8cab-d735894c374e)
-![Screenshot 2023-06-26 122053](https://github.com/Kosaki761/Cinema-Website/assets/106327275/cec61076-f277-495e-972b-6e4851a4ab25)
-
+![Screenshot 2023-06-26 141817](https://github.com/Kosaki761/Cinema-Website/assets/106327275/1b31ac3d-780f-43ad-8aff-2aae96c00b67)
+![Screenshot 2023-06-26 141827](https://github.com/Kosaki761/Cinema-Website/assets/106327275/e332ecf8-55ef-44f6-9ed1-ed93aac7f2b2)
 
 SELECTING TIME AND DATE
 
