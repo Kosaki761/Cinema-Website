@@ -4,7 +4,6 @@ How to run :
 3. Open database on laragon and create new database named cinema.
 4. Run the SQL query.
 
-*NEED TO MANUALLY ADD THE DATA ON DATABASE OR ADMIN PAGE*
 
   
 HOMEPAGE
