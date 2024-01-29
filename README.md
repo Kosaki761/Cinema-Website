@@ -1,9 +1,3 @@
-How to run :
-1. Install Laragon
-2. Open Laragon and add CinemaBooking folder to 'root'.
-3. Open database on laragon and create new database named cinema.
-4. Run the SQL query.
-
 
   
 HOMEPAGE
